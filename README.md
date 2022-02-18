@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Hung-Chih Liu
 - 🌱 I’m currently learning lisp, python, and something related to AI.
 - 📫 Reach me by email: hungchih518@g.ucla.edu
-- test
